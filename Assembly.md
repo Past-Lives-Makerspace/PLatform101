@@ -49,10 +49,12 @@ If you're using the **pull-out quick reference card,** that sits under the termi
 
 - **LED Strip:** Trim the LED strip to 10 LEDs. Cut and tin wires for power (red), ground (black), and data (any non-affiliated color such as purple, orange, or blue). About 12cm seems long enough to reach anywhere on the breadboard. Attach the strip to the acrylic plate using your adhesive of choice (hot glue works great). Optionally, put a little dab of adhesive around the solder joints as a strain relief. If the LED strip has a bend to it from being wound on a reel during shipping, you may need to clamp it down until the adhesive sets.
 
-![LED Strip](./Images/wires2.jpg)
+![LED Strip](./Images/led-strip.jpg)
 
 Optionally use a rotary tool with an etching bit to etch a value into the Serial Number box on the acrylic baseplate.
 
 ## Bringup Testing
 
-TODO
+Once assembled, it's a good idea to load a small program to test out the microcontroller, the button, and the LED strip.
+
+TODO: provide sample program

@@ -4,7 +4,9 @@
 
 [PLatform 101](https://github.com/Past-Lives-Makerspace/PLatform101) is an electronics platform for learning and prototyping with electronics and microcontrollers. Assuming you have access to a laser cutter, scrap acrylic, and commodity hardware bits (wire, solder, M3 screws and nuts), it can be built for about $35.
 
-<div style="align:center"><img src="./Images/PLatform101.jpg" alt="PLatform 101" width="100%" align="center"/></div>
+<div style="text-align:center"><img src="./Images/PLatform101.jpg" alt="PLatform 101" width="100%" align="center"/></div>
+
+## Features
 
 The kit features:
 
@@ -18,9 +20,11 @@ The kit features:
 - Zip-tie points for incorporating the kit into a larger project
 - An optional pull-out quick reference card
 
-<div style="align:center"><img src="./Images/overview.jpg" alt="PLatform 101" width="75%" align="center"/></div>
+<div style="text-align:center"><img src="./Images/overview.jpg" alt="PLatform 101" width="75%" align="center"/></div>
 
 This repository has everything you need, including the laser files, the parts inventory, assembly instructions, code and instructions for testing and bring-up of the project kit, and workshops that allow you to use PLatform 101 as a teaching/learning tool.
+
+## The Name
 
 The uppercase first two letters is a nod to [Past Lives](https://www.pastlives.space), the makerspace I belong to. People there have been curious about things like the ESP32 microcontroller and programmable LED light strips.
 
@@ -30,15 +34,12 @@ The “101” is an indicator that this is the beginning. I encourage folks to m
 
 When I was a kid, I had the [Radio Shack Science Fair 150-in-One project kit](https://archive.org/details/science-fair-150-in-1-electronic-project-kit/mode/2up). I started by blindly following the instructions for projects but eventually learned the basics of electronics. Years later, I did the same with the [Radio Shack Microcomputer Trainer](https://archive.org/details/mct-28-260).
 
-<div style="align:center"><img src="./Images/150-in-one.png" alt="150-in-One" width="50%" align="center"/></div>
-
-<div>&nbsp;</div>
-
-<div style="align:center"><img src="./Images/microcomputer-trainer.png" alt="Microcomputer Trainer" width="50%" align="center"/></div>
+<!-- Resorting to HTML within Markdown. I feel so ashamed. -->
+<div style="text-align:center"><img src="./Images/150-in-one.png" alt="150-in-One" width="40%" align="center"/>&nbsp;&nbsp;&nbsp;<img src="./Images/microcomputer-trainer.png" alt="Microcomputer Trainer" width="40%" align="center"/></div>
 
 Probably a decade ago, I made my own mini version of PLatform for prototyping. It used an Arduino-variant and found it quite useful for quickly testing ideas:
 
-<div style="align:center"><img src="./Images/prototyping.jpg" alt="Prototyping Arduino" width="50%" align="center"/></div>
+<div style="text-align:center"><img src="./Images/prototyping.jpg" alt="Prototyping Arduino" width="50%" align="center"/></div>
 
 ## Building
 
