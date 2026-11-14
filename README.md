@@ -4,7 +4,7 @@
 
 [PLatform 101](https://github.com/Past-Lives-Makerspace/PLatform101) is an electronics platform for learning and prototyping with electronics and microcontrollers. Assuming you have access to a laser cutter, scrap acrylic, and commodity hardware bits (wire, solder, M3 screws and nuts), it can be built for about $35.
 
-[[ IMAGE HERE ]]
+<div style="align:center"><img src="./Images/PLatform101.jpg" alt="PLatform 101" width="100%" align="center"/></div>
 
 The kit features:
 
@@ -30,7 +30,13 @@ When I was a kid, I had the [Radio Shack Science Fair 150-in-One project kit](ht
 
 <div style="align:center"><img src="./Images/150-in-one.png" alt="150-in-One" width="50%" align="center"/></div>
 
+<div>&nbsp;</div>
+
 <div style="align:center"><img src="./Images/microcomputer-trainer.png" alt="Microcomputer Trainer" width="50%" align="center"/></div>
+
+Probably a decade ago, I made my own mini version of PLatform for prototyping. It used an Arduino-variant and found it quite useful for quickly testing ideas:
+
+<div style="align:center"><img src="./Images/prototyping.jpg" alt="Prototyping Arduino" width="50%" align="center"/></div>
 
 ## Building
 
@@ -54,6 +60,14 @@ If the Feather microcontroller board is overkill for your application, it's wort
 There's nothing preventing you from ignoring the Adafruit ESP32 attached to the PLatform and simply using one of these alternative microcontrollers directly on the breadboard. If you need a smaller, cheaper controller — go for it!
 
 Let's say you don't care so much about using the microcontroller to get inputs from the real world (WiFi, button presses, sensors) and don't want to write code. You just want simple LED animations, the [Pixelblaze](https://electromage.com/pixelblaze) is a great option. The Pico is only $35 and is fully controllable via web interface.
+
+## How To Help
+
+- Some real-world usage from someone beyond myself, and any feedback that may result in.
+- We could use more workshops (and I need to flesh out the details of the placeholder workshop I have) and possible larger projects. Zip-tie it to a chassis as the brains of a robot?
+- Bringup code. Standardized wiring hookup and code for testing the functionality of the button and LED strip.
+- Hardware critique and possible revisions/improvements.
+- The laminated pullout reference card is a little “meh” right now and falls out easily. It could use some sort of improvement.
 
 ## License
 
