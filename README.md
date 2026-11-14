@@ -16,7 +16,9 @@ The kit features:
 - Terminal block for hooking up larger external gear, without fear of ripping wires from the breadboard
 - No-skid rubber feet
 - Zip-tie points for incorporating the kit into a larger project
-- A pull-out quick reference card
+- An optional pull-out quick reference card
+
+<div style="align:center"><img src="./Images/overview.jpg" alt="PLatform 101" width="75%" align="center"/></div>
 
 This repository has everything you need, including the laser files, the parts inventory, assembly instructions, code and instructions for testing and bring-up of the project kit, and workshops that allow you to use PLatform 101 as a teaching/learning tool.
 
