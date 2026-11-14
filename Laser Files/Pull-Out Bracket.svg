@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 6000 3600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,1570.87,-2834.65)">
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,3868.11,-218.504)">
+            <circle cx="620.079" cy="856.299" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.83px;"/>
+        </g>
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,3962.6,-218.504)">
+            <circle cx="620.079" cy="856.299" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.83px;"/>
+        </g>
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,3868.11,785.433)">
+            <circle cx="620.079" cy="856.299" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.83px;"/>
+        </g>
+        <g transform="matrix(6.12323e-17,1,-1,6.12323e-17,3962.6,785.433)">
+            <circle cx="620.079" cy="856.299" r="17.717" style="fill:none;stroke:rgb(255,0,0);stroke-width:0.83px;"/>
+        </g>
+    </g>
+    <g transform="matrix(4.23916e-17,0.692308,-3.32143,2.03379e-16,2314.96,-830.406)">
+        <path d="M1677.16,339.599L1677.16,652.527C1677.16,652.527 1677.16,647.621 1677.16,652.527C1677.16,657.434 1658.05,661.417 1634.51,661.417L1412.73,661.417C1412.73,661.417 1436.27,661.417 1412.73,661.417C1389.19,661.417 1370.08,657.434 1370.08,652.527L1370.08,339.599C1370.08,334.692 1389.19,330.709 1412.73,330.709C1436.27,330.709 1412.73,330.709 1412.73,330.709L1634.51,330.709C1658.05,330.709 1677.16,334.692 1677.16,339.599C1677.16,344.505 1677.16,339.599 1677.16,339.599Z" style="fill:none;stroke:rgb(0,0,255);stroke-width:0.35px;"/>
+    </g>
+</svg>
